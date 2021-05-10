@@ -3,6 +3,10 @@
   <a href="https://github.com/actions/javascript-action/actions"><img alt="javscript-action status" src="https://github.com/actions/javascript-action/workflows/units-test/badge.svg"></a>
 </p>
 
+# Notice of no maintainership
+
+This action is not further maintained. If you want to run litmus on Github Actions, please check out [the PDK templates](https://github.com/puppetlabs/pdk-templates/tree/main/moduleroot/.github/workflows).
+
 # Create a JavaScript Action
 
 Use this template to bootstrap the creation of a JavaScript action.:rocket:
